@@ -1,5 +1,3 @@
-Here's a detailed and engaging README template for your Building Entry System project, complete with emojis to make it more visually appealing:
-
 ---
 
 # 🏢 Building Entry System
