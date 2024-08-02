@@ -2,7 +2,9 @@
 
 # 🏢 Building Entry System
 
-Welcome to the **Building Entry System**! This project tracks people entering and leaving a building using MongoDB, Node.js with TypeScript, and Express.js. It includes both backend and frontend components, ensuring a comprehensive and user-friendly experience.
+The Building Entry System is a web-based solution designed to track and manage people entering and leaving a building. It features a backend built with Node.js, TypeScript, and MongoDB to handle data processing and storage, while the frontend is developed using ReactJS and TypeScript for an interactive user interface. The system provides real-time data on current occupancy, allows for registration of entry and exit events, and offers analytical reports on usage patterns. It includes a minimalist UI for ease of use and is deployed on cloud platforms like Heroku and Netlify/Vercel for accessibility.
+
+
 
 ## 🚀 Project Overview
 
