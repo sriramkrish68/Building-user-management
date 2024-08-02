@@ -199,6 +199,17 @@ This project provides a system to monitor and manage building entries and exits.
   }
   ```
 
+
+### User Interface Screenshots:
+![Picture1](https://github.com/user-attachments/assets/cf7f715b-e39c-4c0b-b614-f4785053a47a)
+
+![Picture2](https://github.com/user-attachments/assets/3be571cb-2939-40ea-979d-51ec4b9a0a09)
+
+
+
+
+
+
 ## 🧪 Testing
 
 - **Backend Tests:** Run `npm test` in the `backend` directory.
